@@ -19,4 +19,5 @@ console.log('ultimo ator/atriz', filme.elenco[3]);
 console.log("array com todas as transmissões de hoje", filme.transmissoesHoje);
 console.log("horário de transmissão do filme no Canal Brasil", filme.transmissoesHoje[1].horario)
 
-// lembrar de sempre colocar o comentario do que você esta imprimindo
+
+// lemnbrar de colocar as descrições quando for imprimir 
